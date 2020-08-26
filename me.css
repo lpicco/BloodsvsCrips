@@ -1,0 +1,27 @@
+
+  .column{
+    float: left;
+    width: 100%;
+  }
+
+  .left.Column {
+    width: 50%
+    padding: 10px;
+    color: black;
+    background-color:#FF0000;
+  }
+
+  .right.Column {
+    width: 50%
+    padding: 10px;
+    color: black;
+    background-color:#0000FF;
+  }
+
+  h2{
+    color:black;
+  }
+img{
+  width: 200px;
+  height:
+}
